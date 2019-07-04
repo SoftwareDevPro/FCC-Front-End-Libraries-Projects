@@ -8,4 +8,8 @@ Free Code Camp Front End Libraries Projects
 
 [Random Quote Machine](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine/)
 
+### Javascript Calculator
+
+[Javascript Calculator](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator/)
+
 [comment]: <> (This is a comment, it will not be included)
